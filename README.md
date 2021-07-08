@@ -1,1 +1,1 @@
-# LGM-WebInternship-Task1
+# LGM-Web_Internship-Task1
