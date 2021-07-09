@@ -1,5 +1,5 @@
 # Park Here 24
-
+<img src="https://github.com/monishamandal02/PARK_Here-24/blob/master/images/logo.png" width="3000" height="300" class="centerAlign"/>
 <p> 
 Rise in population the demand for personal vehicles and parking area is increasing. Finding a parking space is one 
 of the major issues which we face on a daily basis but we just ignore it. Keeping the vehicles parked anywhere on road is a 
