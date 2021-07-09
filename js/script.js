@@ -51,7 +51,7 @@ $(document).ready(function(){
     });
 
     // slick slider 
-    $('.testimonial-slider').slick({
+    $('.team-slider').slick({
         dots: true,
         infinite: true,
         autoplay: true,
