@@ -416,6 +416,10 @@ h1, h2, h3, h4, h5, h6, p{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
+    .contact-map iframe{
+    height: 45%;
+    width: 45%;
+    }
 }
 
 @media screen and (min-width: 768px){
@@ -426,6 +430,10 @@ h1, h2, h3, h4, h5, h6, p{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-gap: 2rem;
+    }
+    .contact-map iframe{
+    height: 60%;
+    width: 60%;
     }
     
 }
@@ -533,5 +541,9 @@ h1, h2, h3, h4, h5, h6, p{
 @media screen and (min-width: 1200px){
     .city-wrapper{
         grid-template-columns: repeat(3, 1fr);
+    }
+    .contact-map iframe{
+    height: 120%;
+    width: 120%;
     }
 }
