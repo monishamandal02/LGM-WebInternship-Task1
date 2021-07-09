@@ -1,7 +1,7 @@
 # Park Here 24
 
 <p> 
-  Rise in population the demand for personal vehicles and parking area is increasing. Finding a parking space is one 
+Rise in population the demand for personal vehicles and parking area is increasing. Finding a parking space is one 
 of the major issues which we face on a daily basis but we just ignore it. Keeping the vehicles parked anywhere on road is a 
 matter of tension some times when we want to enjoy with our families or friends, or we are going for long trips, or if it is a 
 business meeting in which we are travelling with our vehicle. For most of the working population in India, Sunday is an off day 
